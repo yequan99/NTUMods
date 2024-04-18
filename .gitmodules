@@ -1,3 +1,6 @@
 [submodule "ntumods-frontend"]
 	path = ntumods-frontend
 	url = git@github.com:yequan99/ntumods-frontend.git
+[submodule "ntumods-scraper"]
+	path = ntumods-scraper
+	url = git@github.com:xinweilau/ntumods-scraper.git
