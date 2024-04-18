@@ -4,3 +4,6 @@
 [submodule "ntumods-scraper"]
 	path = ntumods-scraper
 	url = git@github.com:xinweilau/ntumods-scraper.git
+[submodule "ntumods-backend"]
+	path = ntumods-backend
+	url = git@github.com:weinniethepoo/ntumods-backend.git
