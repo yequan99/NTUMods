@@ -1,0 +1,3 @@
+[submodule "ntumods-frontend"]
+	path = ntumods-frontend
+	url = git@github.com:yequan99/ntumods-frontend.git
